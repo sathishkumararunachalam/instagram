@@ -8,3 +8,4 @@ This is instagram code
 4)hiding last seen
 5)upload a post
 6)adding to upload a reels for diffrent music 
+7)create story
