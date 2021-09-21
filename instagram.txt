@@ -1,0 +1,7 @@
+This is instagram code 
+   
+ author: A. sathish kumar
+
+1)Profile page code
+2)chat screen code
+3)last seen code
