@@ -6,4 +6,4 @@ This is instagram code
 2)chat screen code
 3)last seen code
 4)hiding last seen
-upload a post
+upload a post,story
